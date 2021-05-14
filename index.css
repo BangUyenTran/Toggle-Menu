@@ -1,0 +1,26 @@
+#menu {
+  width: 200px;
+}
+#menu li {
+  list-style: none;
+  line-height: 40px;
+  background: grey;
+  border-bottom: 2px solid white;
+  margin: 2px;
+}
+
+#menu li a {
+  margin-left: 10px;
+  color: darkred;
+  text-decoration: none;
+}
+
+#menu ul {
+  display: none;
+  padding: 0px;
+  background: wheat;
+}
+
+#menu ul li {
+  background-color: paleturquoise;
+}
